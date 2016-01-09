@@ -1,3 +1,8 @@
+--- Imagine adaugata ---
+1. am adaugat in index.php div pt banner rorator si am facut apel la AJAX pt a completa sursa imaginii (apel cu wp_enqueue_script)
+2. am creat scriptul AJAX in js/myajax_call.js
+3. am creat functia php accesata de ajax in fisierul functions.php (liniile 336 -373) asa cum recomanda codeplex.
+
 === Twenty Fifteen ===
 Contributors: the WordPress team
 Requires at least: WordPress 4.1
